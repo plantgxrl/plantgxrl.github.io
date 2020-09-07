@@ -1,5 +1,5 @@
 # Kris Anderson
-![Image of Kris Anderson](images/headshot.png)
+![Image of Kris Anderson](images/headshot.jpeg)
 ## About Me
 I am a PHD student in the UConn EEB department in the Goffinet Lab interested in bryophyte diversity and evolution.
 [My CV](PDFs/cv.pdf)
