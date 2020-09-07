@@ -1,5 +1,6 @@
 ## Kris Anderson
-![Image of Kris Anderson](images/headshot4.jpg)![Image of Kris Anderson](images/coldstar.jpg)
+![Image of Kris Anderson](images/headshot4.jpg)
+![Image of Kris Anderson](images/coldstar.jpg)
 ![Image of Kris Anderson](images/lxdy.jpg)
 
 ## About Me
